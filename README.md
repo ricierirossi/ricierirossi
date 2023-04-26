@@ -4,7 +4,7 @@
 
 - 🙋‍♂️ Hi, my name is Ricieri, but you can call me just Rici
 - 🎓 I have a bachelor's deegre in Electrical Engineering from UNESP - Ilha Solteira
-- 🔭 I’m currently working on become a front-end developer
+- 🔭 I’m currently working on become a front-end developer (carrer transition)
 - 🌱 Right now I'm learning JavaScript, HTML 5, CSS 3 and related tools
 - 🤔 I’m looking for a diverse networking
 - 🐲 Fun fact: I love dragons! 
