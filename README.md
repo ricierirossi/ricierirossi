@@ -20,8 +20,8 @@
 ## 📊 Quick Stats
 <div>
   <a href="https://github.com/ricierirossi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricierirossi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricierirossi&layout=default&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricierirossi&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricierirossi&layout=compact&langs_count=7&theme=transparent"/>
 </div>
 
 ## 📱 Contacts
@@ -29,3 +29,4 @@
   <a href = "mailto:rossi.ricieri@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-ricieri-rossi-da-silva-17768a1b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
