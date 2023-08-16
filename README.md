@@ -6,8 +6,8 @@
 - 🎓 I have a bachelor's deegre in Electrical Engineering from UNESP - Ilha Solteira
 - 🔭 I’m currently working on become a front-end developer (career transition)
 - 🌱 Right now I'm learning JavaScript, HTML 5, CSS 3 and related tools
-- 🤔 I’m looking for a diverse networking
-- 🐲 Fun fact: I love dragons! 
+- 👽 I’m in search of knowledge
+- 🐲 Curious fact: I love dragons! 
 
 ## 🛠 Languages and Tools
 <div style="display: inline_block"> 
