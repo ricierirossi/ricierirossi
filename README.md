@@ -19,7 +19,7 @@
     <img align="center" alt="SASS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
     <img align="center" alt="NuxtJS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
     <img align="center" alt="TailWind" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-<!--     <img align="center" alt="Pinia" height="50" width="60" src="https://pinia.vuejs.org/logo.svg" /> -->
+    <img align="center" alt="Pinia" height="50" width="60" src="https://pinia.vuejs.org/logo.svg" /> 
    
           
 
