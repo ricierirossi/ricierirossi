@@ -14,7 +14,7 @@ Curious fact: I LOVE DRAGONS!
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,nuxt,tailwind)](https://skillicons.dev)
 
 ### Others
-[![My Skills](https://skillicons.dev/icons?i=react,sass&)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,sass,bootstrap)](https://skillicons.dev)
 
 ## Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricierirossi&layout=compact&theme=transparent&hide_border=true&card_width=400&hide_title=true)](https://github.com/ricierirossi/github-readme-stats)
