@@ -11,10 +11,25 @@ Curious fact: I LOVE DRAGONS!
 ## Languages and Tools
 
 ### Most Used
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,nuxt,tailwind)](https://skillicons.dev)
+<div>
+  <img alt="Static Badge" src="https://img.shields.io/badge/HTML%205%20-%20%23E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/CSS%203%20-%20%231572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript%20-%20%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Vue.js-%20%234FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Nuxt.js-%20%2300DC82?style=for-the-badge&logo=nuxt.js&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Tailwind%20CSS%20-%20%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+</div>
 
 ### Others
-[![My Skills](https://skillicons.dev/icons?i=react,sass,bootstrap)](https://skillicons.dev)
+<div>
+  <img alt="Static Badge" src="https://img.shields.io/badge/React%20-%20%2361DAFB?style=for-the-badge&logo=react&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/MySQL%20-%20%234479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Firebase%20-%20%23FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Express%20-%20%23000000?style=for-the-badge&logo=express&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/SASS%20-%20%23CC6699?style=for-the-badge&logo=sass&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap%20-%20%237952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+</div>
+
 
 ## Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricierirossi&layout=compact&theme=transparent&hide_border=true&card_width=400&hide_title=true)](https://github.com/ricierirossi/github-readme-stats)
