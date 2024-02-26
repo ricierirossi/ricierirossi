@@ -28,6 +28,7 @@ Curious fact: I LOVE DRAGONS!
   <img alt="Static Badge" src="https://img.shields.io/badge/Express%20-%20%23000000?style=for-the-badge&logo=express&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/SASS%20-%20%23CC6699?style=for-the-badge&logo=sass&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap%20-%20%237952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Python%20-%20%366f9f?style=for-the-badge&logo=python&logoColor=white&color=366f9f">
 </div>
 
 
