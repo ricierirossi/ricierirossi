@@ -4,7 +4,7 @@ A collection of study projects and personal endeavors.
 
 ## About Me
 
-I'm a Front-end Developer and enthusiast with a love for programming and design. Building a strong foundation in web development and a keen interest in emerging technologies, I'm constantly seeking new challenges and opportunities to expand my knowledge and skills.
+I'm a Jr Developer and enthusiast with a love for programming and design. Building a strong foundation in web development and a keen interest in emerging technologies, I'm constantly seeking new challenges and opportunities to expand my knowledge and skills.
 
 Curious fact: I LOVE DRAGONS! 
 
