@@ -41,6 +41,6 @@ Curious fact: I LOVE DRAGONS!
 <div> 
   <a href = "mailto:rossi.ricieri@gmail.com"><img src=https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white
 " target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheus-ricieri-rossi-da-silva-17768a1b8/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"></a>   
+  <a href="https://www.linkedin.com/in/matheus-ricieri/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"></a>   
   <a href="https://exercism.org/profiles/ricierirossi" target="_blank"><img src="https://img.shields.io/badge/Exercism-130b43?style=for-the-badge&logo=exercism&logoColor=white"target="_blank"></a>   
 </div>
