@@ -31,8 +31,7 @@ Curious fact: I LOVE DRAGONS!
   <img alt="Static Badge" src="https://img.shields.io/badge/Python%20-%20%366f9f?style=for-the-badge&logo=python&logoColor=white&color=366f9f">
 </div>
 
-
-## Most Used Languages
+## 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricierirossi&layout=compact&theme=transparent&hide_border=true&card_width=400&hide_title=true)](https://github.com/ricierirossi/github-readme-stats)
 
 
